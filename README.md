@@ -9,6 +9,6 @@ Hello, I go by Citron. I'm a student in my Junior year at a French international
 - 🤔  After my secondary education, I'm looking to pursue Higher School Preparatory Classes at the French military school of Saint-Cyr and integrate the French naval academy.
 - 👥  Managing Synamics
 
-**Languages and Tools:**  
+**My stats:**  
 
 ![Citron's stats](https://github-readme-stats.vercel.app/api?username=jusdecitron&show_icons=true&hide_border=true)
